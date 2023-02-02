@@ -59,3 +59,6 @@ Frequency=14318180 Hz, Resolution=69.8413 ns, Timer=HPET
 |     DelGenBench | 17.70 us | 0.444 us | 1.274 us |
 |    DelCompBench | 20.11 us | 0.394 us | 0.405 us |
 | DelNonCompBench | 58.37 us | 1.166 us | 1.709 us |
+
+
+сгенерированный работает немного быстрее чем с флагом compiled и в 3 раза быстрее чем без него 
